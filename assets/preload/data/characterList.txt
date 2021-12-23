@@ -19,5 +19,5 @@ senpai-angry
 spirit
 tankman
 gftankmen
-pico-speaker
+picospeaker
 bfandGF
