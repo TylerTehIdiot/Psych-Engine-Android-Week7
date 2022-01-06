@@ -73,5 +73,6 @@ jobs:
           
       - uses: actions/upload-artifact@v2
         with:
-          name: Mobile Build
+          name: Android Build
           path: export/release/android/bin/app/build/outputs/apk/debug
+
